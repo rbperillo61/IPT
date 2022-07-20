@@ -1,0 +1,15 @@
+div.button
+{
+position: relative;
+display: inline-block;
+}
+div.id {
+  position: relative;
+  top: -150px;
+  right: -35%;
+}
+div.table{
+position: relative;
+top: -150px;
+right: 0%;
+}
